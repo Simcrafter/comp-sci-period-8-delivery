@@ -550,9 +550,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1227966733}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0379c70c656c7f048b9d8f3801de1e7d, type: 3}
+  m_Script: {fileID: 11500000, guid: ccad1ed4ca04dde4aa9a40a434c28354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
 --- !u!114 &1227966739
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -579,6 +580,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sensitivity: 100
+=======
+  sensitivity: 1
+>>>>>>> Stashed changes
   Head: {fileID: 1660442368}
 --- !u!1 &1660442368
 GameObject:
