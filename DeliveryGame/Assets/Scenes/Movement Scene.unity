@@ -230,7 +230,11 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+<<<<<<< HEAD
   - {fileID: 2100000, guid: f3a8f8dc55edef7459b763028945651a, type: 2}
+=======
+  - {fileID: 2100000, guid: 0d4dc89bdca54c14d93d3c4b67913d96, type: 2}
+>>>>>>> parent of face534... Basic movement is done
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -458,8 +462,6 @@ GameObject:
   - component: {fileID: 1227966735}
   - component: {fileID: 1227966734}
   - component: {fileID: 1227966738}
-  - component: {fileID: 1227966739}
-  - component: {fileID: 1227966740}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -498,7 +500,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 600fefd0bfa6cf141b619aa3cb71cf98, type: 2}
+  - {fileID: 2100000, guid: f0eedf7d742b2c14eaf5f52ecccf6702, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -553,6 +555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccad1ed4ca04dde4aa9a40a434c28354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 --- !u!114 &1227966739
 MonoBehaviour:
@@ -579,6 +582,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccad1ed4ca04dde4aa9a40a434c28354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> parent of face534... Basic movement is done
   sensitivity: 100
 =======
   sensitivity: 1
