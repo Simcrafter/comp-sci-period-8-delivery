@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
@@ -32,21 +33,18 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     x: 8
     y: 51
     width: 1904
     height: 981
-=======
-    x: -44
-    y: 215
-    width: 1920
-    height: 997
->>>>>>> Stashed changes
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   m_Maximized: 0
 =======
@@ -58,6 +56,8 @@ MonoBehaviour:
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> Stashed changes
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -76,6 +76,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -89,12 +90,15 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     y: 30
     width: 1904
     height: 931
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   controlID: 12
 =======
@@ -108,6 +112,9 @@ MonoBehaviour:
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> Stashed changes
 >>>>>>> movment-code
+=======
+  controlID: 91
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,6 +132,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1518
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -138,6 +146,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     width: 386
     height: 931
   m_MinSize: {x: 277, y: 74}
@@ -147,6 +157,7 @@ MonoBehaviour:
   - {fileID: 14}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -154,6 +165,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -170,6 +183,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -183,6 +197,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     y: 0
     width: 376
     height: 563
@@ -193,6 +209,7 @@ MonoBehaviour:
   - {fileID: 15}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -200,6 +217,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -216,6 +235,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -231,6 +251,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     y: 563
     width: 1518
     height: 368
@@ -242,6 +264,7 @@ MonoBehaviour:
   - {fileID: 18}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -249,6 +272,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -269,6 +294,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -283,10 +309,13 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     width: 1904
     height: 981
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -294,6 +323,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,6 +342,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -325,11 +357,14 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     width: 1904
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -337,6 +372,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -353,6 +390,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -371,11 +409,14 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     y: 961
     width: 1904
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -383,6 +424,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -400,6 +443,7 @@ MonoBehaviour:
   - {fileID: 5}
   m_Position:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -419,17 +463,16 @@ MonoBehaviour:
   m_LastSelected: 1
 =======
 >>>>>>> movment-code
-    x: 0
-    y: 0
 =======
+>>>>>>> Stashed changes
     x: 0
     y: 0
->>>>>>> parent of face534... Basic movement is done
     width: 1518
     height: 931
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   controlID: 13
 =======
@@ -443,6 +486,9 @@ MonoBehaviour:
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> Stashed changes
 >>>>>>> movment-code
+=======
+  controlID: 13
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -461,6 +507,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -480,12 +527,15 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     y: 0
     width: 1518
     height: 563
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   controlID: 14
 =======
@@ -499,6 +549,9 @@ MonoBehaviour:
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> Stashed changes
 >>>>>>> movment-code
+=======
+  controlID: 14
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -514,6 +567,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -530,14 +584,16 @@ MonoBehaviour:
     x: 376
     y: 0
 =======
+=======
+>>>>>>> Stashed changes
     x: 376
     y: 0
->>>>>>> parent of face534... Basic movement is done
     width: 1142
     height: 563
   m_MinSize: {x: 204, y: 224}
   m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 16}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -545,6 +601,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
@@ -572,6 +630,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -584,10 +643,13 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     x: 468
     y: 181
     width: 973
     height: 501
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -595,6 +657,8 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &13
 MonoBehaviour:
@@ -617,6 +681,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
@@ -789,10 +854,13 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     x: 8
     y: 644
     width: 1516
     height: 348
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -805,6 +873,8 @@ MonoBehaviour:
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> Stashed changes
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -818,6 +888,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -829,11 +900,14 @@ MonoBehaviour:
   - Assets/Material
 =======
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Scenes
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
@@ -845,12 +919,15 @@ MonoBehaviour:
   - Assets/Scenes
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Unity Projects\Jackson Lee Symester 2 project\comp-sci-period-8-delivery\DeliveryGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_SelectedIDs: b8260000
     m_LastClickedID: 9912
@@ -876,6 +953,11 @@ MonoBehaviour:
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> Stashed changes
 >>>>>>> movment-code
+=======
+    m_SelectedIDs: 6e2d0000
+    m_LastClickedID: 11630
+    m_ExpandedIDs: 00000000162d000000ca9a3b
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -903,6 +985,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_ExpandedIDs: 000000004e260000
 =======
@@ -918,6 +1001,9 @@ MonoBehaviour:
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> Stashed changes
 >>>>>>> movment-code
+=======
+    m_ExpandedIDs: 00000000162d0000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -961,7 +1047,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -989,7 +1075,6 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Inspector
     m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
-<<<<<<< HEAD
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -1025,67 +1110,27 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Hierarchy
     m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
-=======
->>>>>>> parent of face534... Basic movement is done
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< Updated upstream
-    x: 1526
-    y: 81
-    width: 384
-    height: 911
-=======
-    x: 1533
-    y: 22
-    width: 387
-    height: 923
->>>>>>> Stashed changes
-  m_PersistentViewDataDictionary: {fileID: 0}
-  m_ObjectsLockedBeforeSerialization: []
-  m_InstanceIDsLockedBeforeSerialization: 
-  m_LockTracker:
-    m_IsLocked: 0
-  m_PreviewResizer:
-    m_CachedPref: 160
-    m_ControlHash: -371814159
-    m_PrefName: Preview_InspectorPreview
-  m_PreviewWindow: {fileID: 0}
---- !u!114 &15
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Hierarchy
-    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-<<<<<<< Updated upstream
     x: 8
     y: 81
     width: 374
     height: 543
-<<<<<<< HEAD
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
       m_SelectedIDs: d0260000
       m_LastClickedID: 0
       m_ExpandedIDs: 04fbffff2cfbffff44fbffff9afbffff
+=======
+      m_SelectedIDs: 822d0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: baf5ffff56f6ffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1108,7 +1153,11 @@ MonoBehaviour:
     m_LockTracker:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
+<<<<<<< Updated upstream
   m_WindowGUID: ea82b4bb535e59d418b0ed7fdd741afa
+=======
+  m_WindowGUID: eb1d6b9607425574da2dad9ceb436d7a
+>>>>>>> Stashed changes
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1135,6 +1184,7 @@ MonoBehaviour:
     width: 1138
     height: 543
   m_PersistentViewDataDictionary: {fileID: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   m_WindowGUID: 333ab3b0bd8920e44ba20f0217b46d1b
 =======
@@ -1215,11 +1265,15 @@ MonoBehaviour:
   m_WindowGUID: 36ed198abb11c224bb62dc753d402d19
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+  m_WindowGUID: 1eea85502ab431545b965b0ef4bbaab1
+>>>>>>> Stashed changes
   m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
@@ -1235,6 +1289,11 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0}
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1262,6 +1321,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
 =======
@@ -1278,6 +1338,8 @@ MonoBehaviour:
 =======
     m_Value: 52.269085
 =======
+=======
+>>>>>>> Stashed changes
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
@@ -1285,8 +1347,11 @@ MonoBehaviour:
     m_Target: 10
     speed: 2
     m_Value: 10
+<<<<<<< Updated upstream
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1319,6 +1384,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -1328,14 +1394,19 @@ MonoBehaviour:
     height: 543
 =======
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     x: 507
     y: 94
     width: 1532
     height: 790
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -1347,6 +1418,7 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -1356,14 +1428,19 @@ MonoBehaviour:
     m_VBaseRangeMax: 263
 =======
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     m_HBaseRangeMin: -766
     m_HBaseRangeMax: 766
     m_VBaseRangeMin: -386.5
     m_VBaseRangeMax: 386.5
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1381,6 +1458,7 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       width: 1532
       height: 773
@@ -1393,18 +1471,24 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 569, y: 263}
 =======
+=======
+>>>>>>> Stashed changes
       width: 1532
       height: 773
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 766, y: 386.5}
+<<<<<<< Updated upstream
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       x: -766
       y: -386.5
@@ -1427,6 +1511,8 @@ MonoBehaviour:
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 1138, y: 543}
 =======
+=======
+>>>>>>> Stashed changes
       x: -766
       y: -386.5
       width: 1532
@@ -1436,8 +1522,11 @@ MonoBehaviour:
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 1
   m_LastWindowPixelSize: {x: 1532, y: 790}
+<<<<<<< Updated upstream
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1463,6 +1552,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -1475,10 +1565,13 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
     x: 8
     y: 718
     width: 1366
     height: 308
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -1486,4 +1579,6 @@ MonoBehaviour:
 =======
 >>>>>>> parent of face534... Basic movement is done
 >>>>>>> movment-code
+=======
+>>>>>>> Stashed changes
   m_PersistentViewDataDictionary: {fileID: 0}
