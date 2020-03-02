@@ -5,9 +5,16 @@ using System.Windows.Input;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed = 1;
+    public float speed;
+    float jumpPower;
 
     void Update()
+    {
+        movement();
+        Jump();
+    }
+
+    void movement()
     {
         if (Input.GetKey("w"))
         {
@@ -25,7 +32,13 @@ public class PlayerMovement : MonoBehaviour
         {
             transform.position += transform.right * speed * Time.deltaTime;
         }
+    }
 
+    void Jump()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            GetComponent<Rigidbody>().AddForce(Vector3.up * 300);
+        }
     }
 }
-

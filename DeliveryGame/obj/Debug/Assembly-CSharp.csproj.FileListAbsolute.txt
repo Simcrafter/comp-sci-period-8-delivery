@@ -1,0 +1,2 @@
+D:\Unity Projects\Devin Hall\comp-sci-period-8-delivery\DeliveryGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity Projects\Devin Hall\comp-sci-period-8-delivery\DeliveryGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

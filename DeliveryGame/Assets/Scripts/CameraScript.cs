@@ -12,9 +12,10 @@ public class CameraScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //disables the body renderer while  game is running
+        /*//disables the body renderer while  game is running
         GetComponent<MeshRenderer>().enabled = false;
         Head.GetComponent<MeshRenderer>().enabled = false;
+        *///
     }
 
     // Update is called once per frame
