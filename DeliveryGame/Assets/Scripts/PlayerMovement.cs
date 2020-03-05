@@ -5,7 +5,7 @@ using System.Windows.Input;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed;
+    public float speed = 1;
     float jumpPower;
 
     void Update()
@@ -34,11 +34,20 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    
+    
+
     void Jump()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space)) 
         {
-            GetComponent<Rigidbody>().AddForce(Vector3.up * 300);
+            Debug.Log("Jump");
+            if (GetComponentInChildren<GroundedCheck>().grounded == true)
+            {
+                
+                GetComponent<Rigidbody>().AddForce(Vector3.up * 300);
+            }
         }
     }
 }
+
