@@ -19,7 +19,7 @@ public class PlayerMovement : MonoBehaviour
     {
         movement();
         Jump();
-        Debug.Log(rb.velocity);
+        //Debug.Log(rb.velocity);
     }
 
     void movement()
@@ -46,11 +46,16 @@ public class PlayerMovement : MonoBehaviour
         }
 
         //im trying to code friction cus i dumb
-        if((Mathf.Abs(rb.velocity.x) > 0f || Mathf.Abs(rb.velocity.z) > 0f)&&(!Input.GetKey("w") || !Input.GetKey("s") || !Input.GetKey("d") || !Input.GetKey("a")))
+        if((Mathf.Abs(rb.velocity.x) > 0f || Mathf.Abs(rb.velocity.z) > 0f)&&(!Input.GetKey("w") || !Input.GetKey("s")))
         {
-            rb.AddForce(CofKinFric * rb.mass * -Mathf.Sign(rb.velocity.x) * transform.right);
-            rb.AddForce(CofKinFric * rb.mass * -Mathf.Sign(rb.velocity.z) * transform.forward);
+
+            rb.AddForce(CofKinFric * rb.mass * -Mathf.Sign(rb.velocity.z) * Vector3.forward);
         }
+        if ((Mathf.Abs(rb.velocity.x) > 0f || Mathf.Abs(rb.velocity.z) > 0f) && (!Input.GetKey("d") || !Input.GetKey("a")))
+        {
+            rb.AddForce(CofKinFric * rb.mass * -Mathf.Sign(rb.velocity.x) * Vector3.right);
+        }
+
     }
 
     void Jump()
