@@ -1,4 +1,4 @@
-﻿using System.Collections;
+﻿        using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Windows.Input;
@@ -46,7 +46,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         //im trying to code friction cus i dumb
-        if(Mathf.Abs(rb.velocity.x) > 0f || Mathf.Abs(rb.velocity.z) > 0f)
+        if((Mathf.Abs(rb.velocity.x) > 0f || Mathf.Abs(rb.velocity.z) > 0f)&&(!Input.GetKey("w") || !Input.GetKey("s") || !Input.GetKey("d") || !Input.GetKey("a")))
         {
             rb.AddForce(CofKinFric * rb.mass * -Mathf.Sign(rb.velocity.x) * transform.right);
             rb.AddForce(CofKinFric * rb.mass * -Mathf.Sign(rb.velocity.z) * transform.forward);
