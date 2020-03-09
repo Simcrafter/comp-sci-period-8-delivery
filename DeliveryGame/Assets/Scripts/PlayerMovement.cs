@@ -1,4 +1,4 @@
-﻿        using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.Windows.Input;
@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public float jumpPower = 300f;
     public float CofKinFric = 1f;
     private Rigidbody rb;
+    public float maxvelocity=15f;
 
     void Start()
     {
@@ -19,27 +20,27 @@ public class PlayerMovement : MonoBehaviour
     {
         movement();
         Jump();
-        //Debug.Log(rb.velocity);
-    }
+        Debug.Log(rb.velocity);
+    }               
 
     void movement()
     {
-        if (Input.GetKey("w"))
+        if (Input.GetKey("w") && rb.velocity.magnitude < maxvelocity)
         {
             //transform.position += transform.forward * acc * Time.deltaTime;
             rb.AddForce(transform.forward * acc);
         }
-        if (Input.GetKey("s"))
+        if (Input.GetKey("s") && rb.velocity.magnitude < maxvelocity)
         {
             //transform.position -= transform.forward * acc * Time.deltaTime;
             rb.AddForce(-transform.forward * acc);
         }
-        if (Input.GetKey("a"))
+        if (Input.GetKey("a") && rb.velocity.magnitude < maxvelocity)
         {
             //transform.position -= transform.right * acc * Time.deltaTime;
             rb.AddForce(-transform.right * acc);
         }
-        if (Input.GetKey("d"))
+        if (Input.GetKey("d") && rb.velocity.magnitude < maxvelocity)
         {
             //transform.position += transform.right * acc * Time.deltaTime;
             rb.AddForce(transform.right * acc);
@@ -48,7 +49,6 @@ public class PlayerMovement : MonoBehaviour
         //im trying to code friction cus i dumb
         if((Mathf.Abs(rb.velocity.x) > 0f || Mathf.Abs(rb.velocity.z) > 0f)&&(!Input.GetKey("w") || !Input.GetKey("s")))
         {
-
             rb.AddForce(CofKinFric * rb.mass * -Mathf.Sign(rb.velocity.z) * Vector3.forward);
         }
         if ((Mathf.Abs(rb.velocity.x) > 0f || Mathf.Abs(rb.velocity.z) > 0f) && (!Input.GetKey("d") || !Input.GetKey("a")))
